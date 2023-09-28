@@ -1,5 +1,5 @@
 <template>
-  <div id="app">这是vue2-template</div>
+  <div id="app">这是vue2-template 0.1.1</div>
 </template>
 
 <script>

@@ -1,4 +1,4 @@
-# vue2-template
+# roninz-vue2-template
 
 ## Project setup
 ```
